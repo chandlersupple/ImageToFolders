@@ -1,5 +1,6 @@
-# Chandler Supple
-# June 28, 2018
+# Date: June 28, 2018
+# Author: Chandler Supple
+# File: 'images_to_folders.py'
 
 import os
 import os.path
